@@ -1,1 +1,1 @@
-<img src="./github/website.gif">
+<img src="https://github.com/greysonmrx/greysonmrx/blob/master/github/website.gif?raw=true">
